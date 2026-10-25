@@ -1,0 +1,19 @@
+{
+  "name": "Gestion 💶 — Budget personnel",
+  "short_name": "Gestion 💶",
+  "description": "Gère tes revenus, dépenses et prélèvements mensuels.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#f5f6fa",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "fr-FR"
+}
